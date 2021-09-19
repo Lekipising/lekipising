@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Liplan Lekipising</h1>
 <h3 align="center">A Bsc Computer Science student</h3>
 
-<p align="center"> 👨‍💻 View my portfolio at [https://lekipising.tech/](link) <br/> <br/> ⚡ Fun fact <strong>I play CSGO</strong> </p>
+<p align="center"> 👨‍💻 View my portfolio at https://lekipising.tech/ <br/> <br/> ⚡ Fun fact <strong>I play CSGO</strong> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
