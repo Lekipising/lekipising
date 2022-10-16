@@ -14,9 +14,9 @@
 <br />
 <br />
 <p  align="center" >
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lekipising&show_icons=true&theme=radical" /> <br /> <br />
-  <img align="center" src="https://streak-stats.demolab.com/?user=Lekipising&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lekipising&show_icons=true&theme=radical&hide_border=true&border_radius=8" /> <br /> <br />
+  <img align="center" src="https://streak-stats.demolab.com/?user=Lekipising&theme=radical&hide_border=true&border_radius=8" /> <br /> <br />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lekipising&theme=radical&hide_border=true&border_radius=8" />
 </a>
 </p>
 
