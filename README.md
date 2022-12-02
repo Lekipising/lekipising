@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I am Liplan Lekipising, nice to meet you :wink:</h1>
-<h3 align="center">I am a Software Developer Engineer</h3>
+<h3 align="center">I am a Software Engineer</h3>
 
 <p align="center"> 👨‍💻 View my portfolio at https://lekipising.tech/ <br/> <br/> ⚡ <strong>I play CSGO in my free time</strong> </p>
 
