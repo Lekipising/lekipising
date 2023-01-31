@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Liplan Lekipising, nice to meet you 😁</h1>
+<h1 align="center">Hi, I am <strong>Liplan Lekipising</strong>, nice to meet you 😁</h1>
 
 <p align="center"> ✨ View my portfolio at https://lekipising.tech <br/> <br/> ⚡ <strong>I play CSGO in my free time</strong> </p>
 
