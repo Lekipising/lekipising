@@ -11,4 +11,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lekipising&theme=radical&hide_border=true&border_radius=8&range=last_7_days&custom_title=Last%207%20Days%20WakaTime&langs_count=5" >
 </a>
 </p>
+<h3 align="left">🧰 Tools I use in my crafts</h3>
 
+<h4 align="left">⛏️ Frontend</h3>
+<p align="left">Next JS, React JS, Tailwind CSS, Redux Toolkit, TypeScript, Cloudinary, Next Auth, Next JS API Routes, Prisma, Framer Motion</p>
+
+<h4 align="left">⛏️ Backend</h3>
+<p align="left">Nest JS, Node JS, TypeScript, MongoDB, MySQL</p>
