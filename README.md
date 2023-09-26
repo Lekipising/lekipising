@@ -7,7 +7,7 @@
 </p>
 <br />
 <p  align="center" >
-  <img align="center" src="https://streak-stats.demolab.com/?user=Lekipising&theme=radical&hide_border=true&border_radius=8" /> <br /> <br />
+  <img align="center" src="https://github-readme-streak-stats-two.vercel.app/?user=Lekipising&theme=radical&hide_border=true&border_radius=8" /> <br /> <br />
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lekipising&theme=radical&hide_border=true&border_radius=8&range=last_7_days&custom_title=Last%207%20Days%20WakaTime&langs_count=5" >
 </a>
 </p>
