@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am <strong>Liplan Lekipising</strong>, nice to meet you ✨</h1>
+<h1 align="center">Hi, I am <strong>Liplan Lekipising</strong>, nice to meet you 😉</h1>
 <p align="center"> 🚀 View my portfolio at https://lekipising.com <br/>
 <h3 align="center">🤝 Let's connect:</h3>
 <p align="center">
