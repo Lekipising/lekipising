@@ -12,7 +12,7 @@
 <p align="left">Next JS, React JS, Tailwind CSS, Redux Toolkit, TypeScript, Cloudinary, Next Auth, Next JS API Routes, Prisma, Framer Motion</p>
 
 <h4 align="left">⛏️ Backend</h3>
-<p align="left">Nest JS, Node JS, TypeScript, MongoDB, MySQL</p>
+<p align="left">Nest JS, Node JS, TypeScript, MongoDB, MySQL, Stripe</p>
 <br />
 <br />
 <p  align="center" >
